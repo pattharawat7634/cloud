@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy
+requests
+psycopg2-binary
+deepface
+easyocr
+opencv-python-headless
+opencv-python
+tf-keras
